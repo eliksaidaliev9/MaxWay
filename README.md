@@ -74,3 +74,33 @@ The project is designed to manage products, categories, and orders efficiently t
 **Open in browser:**
 
 👉 http://127.0.0.1:8000/
+
+# 🔐 Security Notice
+
+**For security reasons, sensitive information such as:**
+
+• secret_keys
+
+• database credentials
+
+• database ports
+
+• environment-specific settings
+
+are stored using environment variables and are not committed to the repository.
+
+# 🤝 Contributing
+
+**Contributions are welcome!**
+
+**Feel free to:**
+
+• open issues
+
+• suggest improvements
+
+• submit pull requests
+
+# 📄 License
+
+• This project is licensed under the MIT License.
