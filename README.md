@@ -31,7 +31,7 @@ The project is designed to manage products, categories, and orders efficiently t
 
 # 🛠 Tech Stack
 
-**The project is built using the following technologies:*
+**The project is built using the following technologies:**
 
 • Backend: Python, Django
 
@@ -42,3 +42,35 @@ The project is designed to manage products, categories, and orders efficiently t
 • Media & Static: Django static & media files
 
 • Version Control: Git & GitHub
+
+# ⚙️ Installation (Local Setup)
+
+**Clone the repository:**
+
+• git clone https://github.com/eliksaidaliev9/MaxWay.git
+
+• cd MaxWay
+
+
+**Create and activate virtual environment:**
+
+• python -m venv venv
+
+• venv\Scripts\activate
+
+
+**Install dependencies:**
+
+• pip install -r requirements.txt
+
+
+**Run migrations and start server:**
+
+• python manage.py migrate
+
+• python manage.py runserver
+
+
+**Open in browser:**
+
+👉 http://127.0.0.1:8000/
