@@ -15,3 +15,30 @@ The project is designed to manage products, categories, and orders efficiently t
 
 • practice full-stack web development with Django
 
+# ✨ Features
+
+🍕 Food Product Management (CRUD)
+
+📂 Category-based product listing
+
+🖼 Media support for product images
+
+📊 Admin Dashboard
+
+🧱 Modular Django app structure
+
+🎨 Responsive UI using templates and static files
+
+# 🛠 Tech Stack
+
+**The project is built using the following technologies:*
+
+• Backend: Python, Django
+
+• Frontend: HTML, CSS, JavaScript, Django Templates
+
+• Database: PostgreSQL
+
+• Media & Static: Django static & media files
+
+• Version Control: Git & GitHub
