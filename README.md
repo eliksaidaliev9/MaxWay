@@ -35,7 +35,7 @@ The project is designed to manage products, categories, and orders efficiently t
 
 • Backend: Python, Django
 
-• Frontend: HTML, CSS, JavaScript, Django Templates
+• Frontend: HTML, CSS, JavaScript
 
 • Database: PostgreSQL
 
@@ -104,3 +104,5 @@ are stored using environment variables and are not committed to the repository.
 # 📄 License
 
 • This project is licensed under the MIT License.
+
+# ⭐ If you like this project, don’t forget to give it a star on GitHub!
